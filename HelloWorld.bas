@@ -1,2 +1,3 @@
-10 PRINT "Hello, World!"
-20 END
+CLS
+PRINT "Hello, World! :)"
+END
